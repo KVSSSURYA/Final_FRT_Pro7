@@ -11,7 +11,7 @@ Industry : Health
 
 Project Title : Proclinic
 
-Problem Statement/Opportunity : This is a website to repare about tooth problems such as tooth decay, cavities, gems etc.,
+Problem Statement/Opportunity : This is a website to repaire about tooth problems such as tooth decay, cavities, gems etc.,
 
 Project Description : This website consists of various treatments such as feaver, clinical desorders, and tooth problems.
 
