@@ -1,7 +1,7 @@
 # Final_FRT_Pro7
 My Project Is A Website Named ProClinic. This Is A Front End Website.
 
-#Microsoft-Future-Ready-Talent-Internship-Project
+# Microsoft-Future-Ready-Talent-Internship-Project
 
 Web Technologies used: HTML, CSS, JS.
 
@@ -25,6 +25,16 @@ Primary Azure Technology : Static Web Apps, App Services.
 
 ## App Services link: https://proclinic.azurewebsites.net/
 
+## Demo Video:
+https://drive.google.com/file/d/1cLqbNhMSNkS5Z0TUsno9126RJmRfcx7U/view?usp=sharing
+
+## Azure Resources
+![image](https://user-images.githubusercontent.com/116060228/213414808-01381703-394c-441c-93b7-1f44ea0e9c38.png)
+
+![image](https://user-images.githubusercontent.com/116060228/213414730-79a701f0-de08-4d53-9612-aca3907e46c2.png)
+
+![image](https://user-images.githubusercontent.com/116060228/213414639-d74a102c-cfd7-45e9-a869-8b1312b75197.png)
+
 
 ## #Home
 ![image](https://user-images.githubusercontent.com/116060228/213412565-a3dc6973-956f-4e33-8934-823f73bc26fb.png)
@@ -45,18 +55,3 @@ Primary Azure Technology : Static Web Apps, App Services.
 ## #Contact
 ![image](https://user-images.githubusercontent.com/116060228/213414078-1b64ed03-0d33-4815-b590-25b26bbdc0e0.png)
 ![image](https://user-images.githubusercontent.com/116060228/213414166-fc7b367f-9994-4e11-9f04-ef1799c88fbd.png)
-
-
-## #Demo video
-https://drive.google.com/file/d/1cLqbNhMSNkS5Z0TUsno9126RJmRfcx7U/view?usp=sharing
-
-
-
-## #Azure resources
-![image](https://user-images.githubusercontent.com/116060228/213414808-01381703-394c-441c-93b7-1f44ea0e9c38.png)
-
-![image](https://user-images.githubusercontent.com/116060228/213414730-79a701f0-de08-4d53-9612-aca3907e46c2.png)
-
-![image](https://user-images.githubusercontent.com/116060228/213414639-d74a102c-cfd7-45e9-a869-8b1312b75197.png)
-
-
