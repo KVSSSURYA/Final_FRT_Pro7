@@ -1,7 +1,7 @@
 # Final_FRT_Pro7
-This is web site of proclinic website created by KVSS Surya
+My Project Is A Website Named ProClinic. This Is A Front End Website.
 
-Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+#Microsoft-Future-Ready-Talent-Internship-Project
 
 Web Technologies used: HTML, CSS, JS.
 
@@ -11,7 +11,7 @@ Industry : Health
 
 Project Title : Proclinic
 
-Problem Statement/Opportunity : This is a website to repaire about tooth problems such as tooth decay, cavities, gems etc.,
+Problem Statement/Opportunity : This is a website which could be helpful to treat tooth problems such as tooth decay, cavities, gems etc.,
 
 Project Description : This website consists of various treatments such as feaver, clinical desorders, and tooth problems.
 
