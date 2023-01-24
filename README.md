@@ -48,7 +48,7 @@ Primary Azure Technology : Static Web Apps, App Services.
 
 
 ## #Demo video
-https://drive.google.com/file/d/1cLqbNhMSNkS5Z0TUsno9126RJmRfcx7U/view?usp=sharing
+
 
 https://user-images.githubusercontent.com/116060228/213417210-b81712c8-ed22-40cc-9d9f-c8dbbd283469.mp4
 
